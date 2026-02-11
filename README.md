@@ -18,7 +18,7 @@
 | **Education** | B.Tech CSE Cybersecurity, St. Vincent Pallotti, 4th year / 8th sem |
 | **CGPA** | 7.66 (till 6th sem) |
 | **Location** | Delhi |
-| **Current Role** | Labotek Presales Intern (IT/AV/Surveillance, GAIL projects) — ₹30k/mo |
+| **Current Role** | Labotek Presales Intern (IT/AV/Surveillance, GAIL projects) — ₹0k/mo |
 | **SWE Experience** | 0 |
 | **Coding Status** | Blank — Python/C/C++ forgotten (2yr gap), confirmed can't write FizzBuzz |
 | **Strong Areas** | Networking (Cisco 9115 APs, 9800 controllers, GNS3), Cyber (CEH in progress, SOC L1) |
@@ -113,7 +113,7 @@ As AI-security roles emerge (AI Security Advisor, AI Red Team, Adversarial Teste
 > _"PM path is viable but caps growth vs SWE."_
 
 ### Current Situation
-- Presales intern: ₹30k/month
+- Presales intern: ₹0k/month
 - Potential PM transition: ₹60-70k/month by Dec 2026
 - Available time: 1hr/day (post-CEH duties)
 
